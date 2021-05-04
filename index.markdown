@@ -9,11 +9,11 @@ layout: page
 
 My reseach interests include ***Edge Computing***, ***Distributed Machine Learning System***, ***Software Defined Networking***, ***Blockchain***, ***Smart Grids***.
 
-I am a PhD candidate supervised by Professor [Tao Han](https://coefs.uncc.edu/than3/) at University of North Carolina at Charlotte (UNCC).
+I am a PhD candidate supervised by Professor [Tao Han](https://coefs.uncc.edu/than3/) at [University of North Carolina at Charlotte](https://www.uncc.edu) (UNCC).
 I am going to graduate in June 2021 and now seeking a reseach and developement position in related areas. 
 
-I received my master's degree in *Control Science and Engineering* at Harbin Institute of Technology (HIT) in 2016,
-and my bachelor's degree of engineering in *Automation* at South China University of Technology (SCUT) in 2014.
+I received my master's degree in *Control Science and Engineering* at [Harbin Institute of Technology](http://en.hit.edu.cn) (HIT) in 2016,
+and my bachelor's degree of engineering in *Automation* at [South China University of Technology](https://www.scut.edu.cn/en/) (SCUT) in 2014.
 
 ### **Research Experiences**
 - - - 
@@ -90,15 +90,15 @@ and my bachelor's degree of engineering in *Automation* at South China Universit
 
 ### Papers
 - - - 
-- Demo Abstract: FLEX: Trading Edge Computing Resources for Federated Learning via Blockchain   
+- [Demo Abstract: FLEX: Trading Edge Computing Resources for Federated Learning via Blockchain](https://infocom.info/day/2/track/Demo#Demo-3)   
 **Yang Deng**, Tao Han, and Ning Zhang   
 *IEEE International Conference on Computer Communications (INFOCOM 2021)*
 
-- FedVision: Federated Video Analytics with Edge Computing   
+- [FedVision: Federated Video Analytics with Edge Computing](https://ieeexplore.ieee.org/document/9097917)   
 **Yang Deng**, Tao Han, and N. Ansari   
 *IEEE Open Journal of the Computer Society, vol. 1, pp. 62-72, 2020*
 
-- Poster: Edge datastore for distributed vision analytics   
+- [Poster: Edge Datastore for Distributed Vision Analytics](https://dl.acm.org/doi/10.1145/3132211.3132463)   
 **Yang Deng**, Arun Ravindran, and Tao Han   
 *ACM/IEEE Symposium on Edge Computing (SEC 2017)*
 
