@@ -13,7 +13,7 @@ I am a PhD candidate supervised by Professor [Tao Han](https://coefs.uncc.edu/th
 I am going to graduate in June 2021 and now seeking a reseach and developement position in related areas. 
 
 I received my master's degree in *Control Science and Engineering* at [Harbin Institute of Technology](http://en.hit.edu.cn) (HIT) in 2016,
-and my bachelor's degree of engineering in *Automation* at [South China University of Technology](https://www.scut.edu.cn/en/) (SCUT) in 2014.
+and my bachelor's degree in *Automation* at [South China University of Technology](https://www.scut.edu.cn/en/) (SCUT) in 2014.
 
 ### **Research Experiences**
 - - - 
@@ -102,6 +102,13 @@ and my bachelor's degree of engineering in *Automation* at [South China Universi
 **Yang Deng**, Arun Ravindran, and Tao Han   
 *ACM/IEEE Symposium on Edge Computing (SEC 2017)*
 
+- Learning-Based Optimization Method for Dynamic Network Management in SDN-Enabled Smart Grids   
+**Yang Deng**, Arun Suresh, Tao Han, and Sukumar Kamalasadan   
+*(To be submitted)*
+
+- SDN Based Network Management for Mitigating DoS attack in Active Power Distribution System   
+**Yang Deng**, Biswajit Dipan Biswas, Michael Smith, Tao Han, and Sukumar Kamalasadan   
+*(To be submitted)*
 
 ### Contact
 - - - 

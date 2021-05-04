@@ -21,7 +21,7 @@
 title: Yang Deng (邓 暘)
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Evething will be ok.
+  Everything will be ok.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
