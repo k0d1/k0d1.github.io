@@ -10,7 +10,7 @@ layout: page
 My reseach interests include ***Edge Computing***, ***Distributed Machine Learning System***, ***Software Defined Networking***, ***Blockchain***, ***Smart Grids***.
 
 I am a PhD candidate supervised by Professor [Tao Han](https://coefs.uncc.edu/than3/) at [University of North Carolina at Charlotte](https://www.uncc.edu) (UNCC).
-I am going to graduate in June 2021 and now seeking a reseach and developement position in related areas. 
+I am going to graduate in August 2021 and now seeking a reseach and developement position in related areas. 
 
 I received my master's degree in *Control Science and Engineering* at [Harbin Institute of Technology](http://en.hit.edu.cn) (HIT) in 2016,
 and my bachelor's degree in *Automation* at [South China University of Technology](https://www.scut.edu.cn/en/) (SCUT) in 2014.
