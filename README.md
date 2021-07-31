@@ -1,6 +1,6 @@
 # My Github Page repository
 
-URL: [https://lnp.github.io](https://lnp.github.io)
+URL: [https://lvnpz.github.io](https://lvnpz.github.io)
 
 Theme configured based on [jekyll-minima](https://github.com/jekyll/minima)
 
